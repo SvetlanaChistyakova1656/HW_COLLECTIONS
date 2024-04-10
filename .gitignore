@@ -1,3 +1,7 @@
+.idea/
+out/
+target/
+HW_COLLECTIONS.iml
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
